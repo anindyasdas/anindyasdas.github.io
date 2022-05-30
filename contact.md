@@ -16,7 +16,7 @@ comments: false
 
 anindyasd34 (at) gmail.com
 <br>
-aninsdas@cs.umu.se
+aninsdas (at) cs.umu.se
 <br>
 1811mc02 (at) iitp.ac.in
 
