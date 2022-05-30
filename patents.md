@@ -1,5 +1,5 @@
 ---
-layout: patents
+layout: publications
 permalink: /patents/
 title: My Patents
 tags: [patents]
