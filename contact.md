@@ -3,7 +3,7 @@ layout: cv
 permalink: /contact/
 title: How to reach me
 tags: [about]
-modified: 8-7-2014
+modified: 31-5-2022
 comments: false
 ---
 
@@ -15,6 +15,10 @@ comments: false
 <img src="{{ site.url }}/images/contact/email.png" alt="Email" width="30"> <br><br>
 
 anindyasd34 (at) gmail.com
+<br>
+aninsdas@cs.umu.se
+<br>
+1811mc02 (at) iitp.ac.in
 
 <br>
 <br><br>
