@@ -14,8 +14,12 @@ image:
   <li> I haven't been updating my profile for long. After my graduation I started working as a Senior Research engineer at LG. I have worked for 1.5 years at LG , left my job recently, started my WASP funded <b>Ph.D</b> at Umea University, Sweden!.
 </li>
   
+<br>
+  
 <li>Graduated from IIT Patna with <i> Institute Silver Medal</i> </li>
 
+<br>
+  
 <li>I am awarded <strong>DAAD KOSPIE fellowship </strong></li>
 
 <br>
