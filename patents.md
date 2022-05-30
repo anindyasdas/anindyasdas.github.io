@@ -1,9 +1,9 @@
 ---
 layout: patents
 permalink: /patents/
-title: My patents
+title: My Patents
 tags: [patents]
-modified: 8-7-2014
+modified: 31-5-2022
 comments: false
 ---
 
