@@ -13,7 +13,7 @@ comments: false
   
   <p align="center">
     </p>
-  <div style="text-align:left"><ul><li><u><b>Anindya Sundar Das</b></u>, Sriparna Saha.<i>Self-Supervised Image-to-text and Text-to-image Synthesis</i>. <b>ICONIP 2021</b> </li>
+  <div style="text-align:left"><ul><li><u><b>Anindya Sundar Das</b></u>, Sriparna Saha.<a href="https://link.springer.com/chapter/10.1007/978-3-030-92273-3_34"><i>Self-Supervised Image-to-text and Text-to-image Synthesis</i></a>. <b>ICONIP 2021</b> </li>
  
 </ul> </div>
 
