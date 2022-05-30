@@ -13,7 +13,8 @@ comments: false
   
   <p align="center">
     </p>
-  <div style="text-align:left"><ul><li><u><b>Anindya Sundar Das</b></u>, Sriparna Saha.<a href="https://link.springer.com/chapter/10.1007/978-3-030-92273-3_34"><i>Self-Supervised Image-to-text and Text-to-image Synthesis</i></a>. <b>ICONIP 2021</b> </li>
+  <div style="text-align:left"><ul><li>Tulika Saha, Saichethan Miriyala Reddy, <u><b>Anindya Sundar Das</u><b>, Sriparna Saha., Pushpak Bhattacharya. <i>A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony. Sentiment Driven End-to-end Motivational Dialogue System: An Application of Natural Language Generation to Mental Health</i>. <b>NAACL 2022<b>
+ </li>
  
 </ul> </div>
 
@@ -21,7 +22,8 @@ comments: false
 
 <p align="center">
     </p>
-  <div style="text-align:left"><ul><li><strong>Tutorial: Important Regular Expressions </strong><a href=""> </a> <a href="https://medium.com/@anindyasdas/important-regular-expressions-def051aa7425?sk=6db3da75aae83586c0b252b955c6a8e3">Link</a>. </li>
+  <div style="text-align:left"><ul><li><u>Tulika Saha, Vaibhav Gakhreja, <u><b>Anindya Sundar Das </b></u>, Souhitya Chakraborty, Sriparna Saha. <i>Towards Motivational and Empathetic Response Generation in Online Mental Health Support </i>. <b> SIGIR 2022 </b>
+</li>
  
 </ul> </div>
 
@@ -29,7 +31,7 @@ comments: false
 
 <p align="center">
     </p>
-  <div style="text-align:left"><ul><li><strong>A Machine Learning Based Approach For Detecting Languages In Documents </strong><a href=""> </a> <a href="https://medium.com/@anindyasdas/a-machine-learning-based-approach-for-detecting-languages-in-documents-8145350f08f9?sk=7ff825c48a69bb8b4f1518f7daf41cad">Link</a>. </li>
+  <div style="text-align:left"><ul><li><u><b>Anindya Sundar Das</b></u>, Sriparna Saha. <a href="https://link.springer.com/chapter/10.1007/978-3-030-92273-3_34"><i>Self-Supervised Image-to-text and Text-to-image Synthesis</i></a>. <b>ICONIP 2021</b> </li>
  
 </ul> </div>
 
