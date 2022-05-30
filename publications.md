@@ -13,7 +13,7 @@ comments: false
   
   <p align="center">
     </p>
-  <div style="text-align:left"><ul><li>Tulika Saha, Saichethan Miriyala Reddy, <u><b>Anindya Sundar Das</b></u>, Sriparna Saha., Pushpak Bhattacharya. <i>"A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony" </i> in <b>NAACL 2022<b>
+  <div style="text-align:left"><ul><li>Tulika Saha, Saichethan Miriyala Reddy, <u><b>Anindya Sundar Das</b></u>, Sriparna Saha., Pushpak Bhattacharya. <i>"A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony" </i> in <b>NAACL 2022</b>
  </li>
  
 </ul> </div>
@@ -22,7 +22,7 @@ comments: false
 
 <p align="center">
     </p>
-  <div style="text-align:left"><ul><li><u>Tulika Saha, Vaibhav Gakhreja, <u><b>Anindya Sundar Das </b></u>, Souhitya Chakraborty, Sriparna Saha, <i>"Towards Motivational and Empathetic Response Generation in Online Mental Health Support" </i> in <b> SIGIR 2022 </b>
+  <div style="text-align:left"><ul><li>Tulika Saha, Vaibhav Gakhreja, <u><b>Anindya Sundar Das </b></u>, Souhitya Chakraborty, Sriparna Saha, <i>"Towards Motivational and Empathetic Response Generation in Online Mental Health Support" </i> in <b> SIGIR 2022 </b>
 </li>
  
 </ul> </div>
