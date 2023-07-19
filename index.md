@@ -10,8 +10,11 @@ image:
 <section>
 
 <ul>
+
+ <li> I started my WASP funded <b>Ph.D</b> at Umea University, Sweden! My research focuses on building robust, explainable machine learning (ML) models for anomaly detection to ensure trustworthiness and reliability of ML models depolyed in critical applications. (31-5-2022)
+</li>
   
-  <li> I haven't been updating my profile for long. After my graduation I started working as a Senior Research engineer at LG. I have worked for 1.5 years at LG , left my job recently, started my WASP funded <b>Ph.D</b> at Umea University, Sweden!. (31-5-2022)
+  <li> I haven't been updating my profile for long. After my graduation I started working as a Senior Research engineer at LG.
 </li>
   
 <br>
