@@ -13,6 +13,7 @@ image:
 
  <li> I started my WASP funded <b>Ph.D</b> at Umea University, Sweden! (31-5-2022)
 </li>
+<br>
   
   <li> I haven't been updating my profile for long. After my graduation I started working as a Senior Research engineer at LG.
 </li>
