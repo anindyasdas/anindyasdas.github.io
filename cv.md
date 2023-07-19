@@ -14,7 +14,7 @@ comments: false
     <img src="{{ site.url }}/images/CV/job.png" alt="Work Experience"  width="70">
     </p>
   <div style="text-align:center"><ul>
-  <li>I am a WASP funded doctoral researcher (PhD student) at the <a href="https://www.umu.se/en/department-of-computing-science/">Department of Computing Science</a> , <a href="https://www.umu.se/en/"> Umea University</a>, Sweden. Prior to joining my Ph.D I worked at LG as a Senior Research Engineer for 1.5 years. I completed my <strong> Master's degree (M.Tech) </strong> from the <a href="https://www.iitp.ac.in/" target="_blank">Indian Institute of Technology, Patna</a> in  Mathematics and Computer Science.</li></ul> </div>
+  <li>I am a WASP funded doctoral researcher (PhD student) at the <a href="https://www.umu.se/en/department-of-computing-science/">Department of Computing Science</a> , <a href="https://www.umu.se/en/"> Umea University</a>, Sweden. My research focuses on building robust, explainable machine learning (ML) models for anomaly detection to ensure trustworthiness and reliability of ML models depolyed in critical applications. Prior to joining my Ph.D I worked at LG as a Senior Research Engineer for 1.5 years. I completed my <strong> Master's degree (M.Tech) </strong> from the <a href="https://www.iitp.ac.in/" target="_blank">Indian Institute of Technology, Patna</a> in  Mathematics and Computer Science.</li></ul> </div>
 
   <br>
   
