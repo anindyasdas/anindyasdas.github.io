@@ -9,6 +9,20 @@ comments: false
 
 <section>
 
+ <p align="center">
+    </p>
+  <div style="text-align:left"><ul><li> <u><b>Anindya Sundar Das</b></u>, Guansong Pang, Monowar Bhuyan. <i>"Adaptive Deviation Learning for Visual Anomaly Detection with Data Contamination" </i> in <b>WACV 2025</b>
+ </li>
+ 
+</ul> </div>
+
+ <p align="center">
+    </p>
+  <div style="text-align:left"><ul><li> <u><b>Anindya Sundar Das</b></u>, Aravind Ajay, Sriparna Saha, Monowar Bhuyan. <i>"Few-Shot Anomaly Detection in Text with Deviation Learning" </i> in <b>ICONIP 2024</b>
+ </li>
+ 
+</ul> </div>
+
     
   
   <p align="center">
