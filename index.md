@@ -15,16 +15,16 @@ image:
 </li>
 <br>
   
-  <li> I haven't been updating my profile for long. After my graduation I started working as a Senior Research engineer at LG.
+  <li> Started working as a Senior Research engineer at LG. (Old News) 
 </li>
   
 <br>
   
-<li>Graduated from IIT Patna with <i> Institute Silver Medal</i> (Old News) </li> 
+<li>Graduated from IIT Patna with <i> Institute Silver Medal.</i> (Old News) </li> 
 
 <br>
   
-<li>I am awarded <strong>DAAD KOSPIE fellowship </strong> (Old News)</li>
+<li>I am awarded <strong>DAAD KOSPIE fellowship. </strong> (Old News)</li>
 
 <br>
 
