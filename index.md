@@ -11,11 +11,11 @@ image:
 
 <ul>
 
-  <li> Nasscom AI Gamechangers Award 2023-24 in the category of AI research for work on ``Motivational Virtual Assistant for Assuaging Mental Agony" published in NAACL 2022.</i>! 🙂 (28-10-2024)
+  <li> Our paper on <i>Adaptive Deviation Learning for Visual Anomaly Deetection with Data Contamination</i> is accepted in IEEE Winter Conference on Applications of Computer Vision (WACV) 2025, to be held on Feb 28 – Mar 4 in Tucson, Arizona ! 😄😄 🚀
 </li>
 <br> 
 
-   <li> Nasscom AI Gamechangers Award 2023-24 in the category of AI research for work on ``Motivational Virtual Assistant for Assuaging Mental Agony" published in NAACL 2022.</i>! 😄 🚀 (24-07-2024)
+   <li> Nasscom AI Gamechangers Award 2023-24 in the category of AI research for work on <i>Motivational Virtual Assistant for Assuaging Mental Agony</i> published in NAACL 2022.! 😄 (24-07-2024)
 </li>
 <br>
   
