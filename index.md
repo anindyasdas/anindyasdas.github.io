@@ -11,7 +11,7 @@ image:
 
 <ul>
 
-  <li> Our paper on <i>Adaptive Deviation Learning for Visual Anomaly Deetection with Data Contamination</i> is accepted in IEEE Winter Conference on Applications of Computer Vision (WACV) 2025, to be held on Feb 28 – Mar 4 in Tucson, Arizona ! 😄😄 🚀
+  <li> Our paper on <i>Adaptive Deviation Learning for Visual Anomaly Deetection with Data Contamination</i> is accepted in IEEE Winter Conference on Applications of Computer Vision (WACV) 2025, to be held on Feb 28 – Mar 4 in Tucson, Arizona, USA ! 😄😄 🚀
 </li>
 <br> 
 
