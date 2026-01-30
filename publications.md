@@ -8,6 +8,14 @@ comments: false
 ---
 
 <section>
+<p align="center">
+    </p>
+  <div style="text-align:left"><ul><li> <u><b>Anindya Sundar Das</b></u>, Kangjie Chen, Monowar Bhuyan. <i>"Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models" </i> in <b>ICLR 2026</b>
+ </li>
+ 
+</ul> </div>
+
+<br>
 
  <p align="center">
     </p>
