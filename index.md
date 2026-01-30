@@ -10,8 +10,11 @@ image:
 <section>
 
 <ul>
+ <li> Our paper on <i>Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models</i> is accepted in International Conference on Learning Representations (ICLR) 2026, to be held on April 23 – April 27 in Rio de Janeiro, Brazil ! 😄😄 🚀
+</li>
+<br> 
 
-  <li> Our paper on <i>Adaptive Deviation Learning for Visual Anomaly Deetection with Data Contamination</i> is accepted in IEEE Winter Conference on Applications of Computer Vision (WACV) 2025, to be held on Feb 28 – Mar 4 in Tucson, Arizona, USA ! 😄😄 🚀
+  <li> Our paper on <i>Adaptive Deviation Learning for Visual Anomaly Deetection with Data Contamination</i> is accepted in IEEE Winter Conference on Applications of Computer Vision (WACV) 2025, to be held on Feb 28 – Mar 4 in Tucson, Arizona, USA ! 😄
 </li>
 <br> 
 
